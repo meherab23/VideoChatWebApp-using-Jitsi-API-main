@@ -1,3 +1,3 @@
-# VideoChatWebApp-using-Jitsi-API
+# MHVideoChat-Jitsi-API
 
 
